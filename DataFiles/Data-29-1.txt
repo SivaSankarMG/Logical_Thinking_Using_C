@@ -1,0 +1,7 @@
+1 Layingoffoundation 15
+2 Plumbinginstallment 12
+3 Frameandroof 20
+4 Electricalwork 7
+5 Plastering 4
+6 Carpentry 7
+7 Landscaping 3

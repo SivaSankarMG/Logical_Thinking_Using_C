@@ -1,0 +1,6 @@
+Plants 12.33 1
+Movies 6.50 3
+Mortgage 389.75 1
+Dentist 154.25 2
+Gas 99.66 4
+Vacation 1156.56 3
